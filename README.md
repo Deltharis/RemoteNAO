@@ -17,4 +17,6 @@ Możliwe jest uruchomienie aplikacji na wirtualnym robocie dostępnym w ramach p
 3. Dokumentacja
 ---------------
 
-Dokumentacja na wiki projektu
+Dokumentacja na wiki projektu:
+
+https://github.com/Deltharis/RemoteNAO/wiki
