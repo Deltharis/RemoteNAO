@@ -1,6 +1,6 @@
 RemoteNAO
 =========
-RemoteNAO to zdalne centrum komend głosowych dla robota NAO. Projekt ten pozwala na tworzenie zdalnych implementacji funkcjonalności dla robota NAO dostępnych z poziomu RESTowego API i możliwych do podmienienia w locie bez potrzeby dostępu do samego robota.
+RemoteNAO to zdalne centrum komend głosowych dla robota NAO. Projekt ten pozwala na tworzenie zdalnych implementacji funkcjonalności dla robota NAO dostępnych z poziomu RESTowego API i możliwych do podmienienia w locie bez potrzeby dostępu do samego robota, rozpoznawanych za pomocą dynamicznie pobieranych z serwera dostępnych komend głosowych.
 
 1. Budowanie projektu
 ---------------------
